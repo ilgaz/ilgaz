@@ -1,4 +1,4 @@
-# 👋 Hi there 
+# Hello! 
 
 My name is Ilgaz, I'm a senior software engineer based in Amsterdam
 
@@ -7,21 +7,10 @@ My name is Ilgaz, I'm a senior software engineer based in Amsterdam
 - [LinkedIn](https://linkedin.com/in/ilgaz-can)
 
 ## :speech_balloon: Ask me about 
-- Erlang and Elixir
-- OTP
-- Microservices
-- Event driven architecture
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgaz&hide=vim+script&layout=compact" align="right" />
-
-### I'm Interested in
-
-- Functional Programming
-- Elixir
-- TypeScript
-- Containerization
+- Elixir, OTP, Functional Programming
+- AI Integrations to greenfield and existing projects
+- LLM Harness optimizations, best practices
+- Homelabbing, virtualisation
 
   <!--
 **ilgaz/ilgaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
